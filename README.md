@@ -1,6 +1,8 @@
 # F1 Championship Simulator
 
-With 6 races and 3 sprints to go 
+With 6 races and 3 sprints to go and 5 drivers still on the contention for the championship
+(mathematically still in the title fight)
+I built a small pythons simulator to see the actual probability for each driver to claim the title.
 
 ## Frequency vs Maximum Points Split by Champion
 ![Bar graph showing the frequency of Maximum points split by Champion](https://github.com/AugustGray/F1-Championship-Simulator/blob/main/Freq_Maximum-Points.png)
