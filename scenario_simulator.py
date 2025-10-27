@@ -103,7 +103,7 @@ if __name__ == '__main__':
     # Set how many random scenarios you want to run. 10,000 is a good start.
     # Increase for more statistical accuracy.
     NUMBER_OF_SCENARIOS = 30000
-    NUMBER_OF_RACES = 7
+    NUMBER_OF_RACES = 6
     
     # --- File Loading ---
     try:
